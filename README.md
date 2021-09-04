@@ -8,10 +8,12 @@ Add Rotate.py to the working directory of any webscraper or Python script you ar
 
 # How to Use
 
-``` proxy = Random_Proxy()
+``` 
+proxy = Random_Proxy()
 
 url = 'https://www.youtube.com'
 request_type = "get"
 
 r = proxy.Proxy_Request(url=url, request_type=request_type)
-print(r) ```
+print(r) 
+```
